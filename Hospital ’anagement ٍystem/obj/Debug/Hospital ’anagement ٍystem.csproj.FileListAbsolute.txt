@@ -1,0 +1,16 @@
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\bin\Debug\Hospital ’anagement ٍystem.exe.config
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\bin\Debug\Hospital ’anagement ٍystem.exe
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\bin\Debug\Hospital ’anagement ٍystem.pdb
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital ’anagement ٍystem.csproj.AssemblyReference.cache
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital ’anagement ٍystem.csproj.SuggestedBindingRedirects.cache
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.DepartementForm.resources
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.Properties.Resources.resources
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital ’anagement ٍystem.csproj.GenerateResource.cache
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital ’anagement ٍystem.csproj.CoreCompileInputs.cache
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital ’anagement ٍystem.exe
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital ’anagement ٍystem.pdb
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.AddDepartmentForm.resources
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.DoctorForm.resources
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.AddDoctorForm.resources
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.NurseForm.resources
+E:\iti\C#\Day2\oop\Hospital ’anagement ٍystem\Hospital ’anagement ٍystem\obj\Debug\Hospital__anagement_ٍystem.AddNurseForm.resources
